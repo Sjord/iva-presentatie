@@ -39,3 +39,56 @@
 		background-size:100% auto;
 	}
 }
+
+.whitescreen {
+    background-color: white;
+    color: black;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.blackscreen {
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#bierglas {
+    background-image: url("../images/glasbier.jpg");
+    background-position: top right;
+}
+
+#nix {
+    background-image: url("../images/NIX18-cmyk-payoff-fc.jpg");
+    background-position: center center;
+}
+
+        
+#nix2 {
+    background-image: url("../images/wij verkopen geen alcohol onder 18.jpg");
+    background-position: center center;
+}
+
+#nietdronken {
+    background-image: url("../images/drunk-guy.jpg");
+    background-position: center center;
+}
+
+#vergunning {
+    background-image: url("../images/horecavergunning-zeedijk-amsterdam.jpg");
+    background-position: center center;
+}
+
+#rijden {
+    background-image: url("../images/one_man_trash_another_treasure_beer_truck_hd-wallpaper-1882711.jpg");
+    background-position: center center;
+}
+
+#gifs div {
+    display: inline-block;
+    width: 49%;
+    height: 49%;
+    text-align: center;
+}
+#gifs div img {
+    height: 100%;
+}
