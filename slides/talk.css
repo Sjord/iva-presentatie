@@ -87,6 +87,25 @@
     background-position: center center;
 }
 
+#obama {
+    background-image: url("../images/drunk-people-feat1.jpg");
+    background-position: center center;
+}
+
+#mond {
+    background-image: url("../images/hoe-moet-je-uitgaan-als-je-hebt-besloten-even-niet-te-drinken-127-1424873379.jpg");
+    background-position: center center;
+}
+
+#braaf {
+    background-image: url("../images/200610219250_oud_uniform.jpg");
+    background-position: center center;
+}
+
+#stout {
+    background-image: url("../images/komasaufen-DW-Wissenschaft-Lloret-de-Mar.jpg");
+    background-position: center center;
+}
 #gifs div {
     display: inline-block;
     width: 49%;
